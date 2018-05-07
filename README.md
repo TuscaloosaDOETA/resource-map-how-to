@@ -84,14 +84,25 @@ A geo-locator app can be used to search for and filter through programs and serv
 
 ![Image of 140](http://suffolklitlab.org/resource-map-how-to/README%20images/140.png)
 
-**<p> 29. Find your Google Maps API. To find your Google Maps API go [here](https://developers.google.com/maps/documentation/javascript/get-api-key?refresh=1) and follow the steps below. You will have to sign into Google using a gmail account. </p>**
+**<p> 29. Find your Google Maps API. To find your Google Maps API go [here](https://developers.google.com/maps/documentation/javascript/get-api-key?refresh=1) and follow the steps below. You will have to sign into Google using a gmail account. Once you're signed in, click "Get Started" </p>**
 
 ![Image Line Google API 1](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%201.png)
-![Image Line Google API 1.2](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%201.2.png)
-![Image Line Google API 1.3](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%201.3.png)
-![Image Line Google API 2](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%202.png)
-**<p> 30. Copy the Google API key and turn to line 136 of the code. Paste your own Google API key. </p>**
 
+**<p> 30. Choose the Maps selection. Click next. </p>**
+![Image Line Google API 1.2](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%201.2.png)
+
+**<p> 31. Click "My Project" or create a new one. </p>**
+![Image Line Google API 1.3](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%201.3.png)
+
+**<p> 32. Google will then ask you to enable billing. Even though you must input a credit card, Google gives $200 a month of free use. It is more likely than not that you will still not reach the $200 threshold because the app will likely be for internal use with only a few dozen people utilizing it. For more info on this, you can click [here.](https://mapsplatform.googleblog.com/2018/05/introducing-google-maps-platform.html). Click "Create Billing Account."
+
+![Image Line Google API 1.4](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%201.4.png)
+![Image Line Google billing](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20billing.png)
+
+**<p> 33. Input your credit card info then hit "Submit and Enable." </p>**
+**<p> 34. Your Google API key should then generate. Copy the Google API key and turn to line 136 of the code. Paste your own Google API key. </p>**
+
+![Image Line Google API 2](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%202.png)
 ![Image of 136](http://suffolklitlab.org/resource-map-how-to/README%20images/136.png)
 
 **<p> 31. Commit the changes on the bottom of the page. </p>**
