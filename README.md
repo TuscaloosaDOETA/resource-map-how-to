@@ -26,7 +26,7 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 11. Change the name to what you would like as this is how it will show up in the URL. Go back to the repository by clicking where the arrow is pointed. </p>**
 
 ![Image of Repo](http://suffolklitlab.org/resource-map-how-to/README%20images/Repo.png)
-**<p> 12. Create an Airtable account [here](https://airtable.com). </p>**
+**<p> 12. Go to a different tab/window. Create an Airtable account [here](https://airtable.com). Airtable will be free since this app will likely not be used for commerical purposes. </p>**
  
 ![Image of Airtable sign in](http://suffolklitlab.org/resource-map-how-to/README%20images/Airtable%20sign%20in.png)
 **<p> 13. Choose a base template that suits your needs. </p>**
