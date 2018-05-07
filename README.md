@@ -72,7 +72,7 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 25. Copy and paste your API key in line 141 of the code. </p>**
  
 ![Image of 141](http://suffolklitlab.org/resource-map-how-to/README%20images/141.png)
-**<p> 26. Find your API documentation. </p>**
+**<p> 26. Find your API documentation. You can follow the steps below or go to this [website](https://medium.com/row-and-table/an-basic-intro-to-the-airtable-api-9ef978bb0729). </p>**
  
 ![Image of API Documenation](http://suffolklitlab.org/resource-map-how-to/README%20images/API%20Documentation.png)
 
@@ -80,7 +80,6 @@ A geo-locator app can be used to search for and filter through programs and serv
 
 ![Image of API Documentation 3](http://suffolklitlab.org/resource-map-how-to/README%20images/API%20Doumentation%203.png)
 
-**<p> 27. You can follow the steps above or go to this [website](https://medium.com/row-and-table/an-basic-intro-to-the-airtable-api-9ef978bb0729) to find your API Key and API Documentation. </p>**
 **<p> 28. Copy and paste your API documentation in line 140 of the code. </p>**
 
 ![Image of 140](http://suffolklitlab.org/resource-map-how-to/README%20images/140.png)
