@@ -108,6 +108,10 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 35. Commit the changes on the bottom of the page. </p>**
  
 ![Image of Commit](http://suffolklitlab.org/resource-map-how-to/README%20images/Commit.png)
-**<p> 36. Go to settings again, scroll down to GitHub pages to find your own url link. </p>**
+**<p> 36. Go to settings again, scroll down to GitHub pages to find your own URL link. </p>**
 
 ![Image of link](http://suffolklitlab.org/resource-map-how-to/README%20images/link.png)
+**<p> 36. Click the URL and utilize your own geo-locator app!
+ 
+ ![Image of final](http://suffolklitlab.org/resource-map-how-to/README%20images/final.png)
+
