@@ -87,6 +87,8 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 29. Find your Google Maps API. To find your Google Maps API go [here](https://developers.google.com/maps/documentation/javascript/get-api-key?refresh=1) and follow the steps below. You will have to sign into Google using a gmail account. </p>**
 
 ![Image Line Google API 1](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%201.png)
+![Image Line Google API 1.2](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%201.2.png)
+![Image Line Google API 1.3](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%201.3.png)
 ![Image Line Google API 2](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%202.png)
 **<p> 30. Copy the Google API key and turn to line 136 of the code. Paste your own Google API key. </p>**
 
