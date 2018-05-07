@@ -62,17 +62,17 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 24. Put the tagged names into line 208 (i.e checkbox-v-Alternative'). </p>**
 
 ![Image of 208](http://suffolklitlab.org/resource-map-how-to/README%20images/208.png)
-**<p> 24. Go back to your Airtable. Find your API key. You can follow the steps below or go to this [website](https://medium.com/row-and-table/an-basic-intro-to-the-airtable-api-9ef978bb0729). </p>** 
+**<p> 25. Go back to your Airtable. Find your API key. You can follow the steps below or go to this [website](https://medium.com/row-and-table/an-basic-intro-to-the-airtable-api-9ef978bb0729). </p>** 
  
 ![Image to Account](http://suffolklitlab.org/resource-map-how-to/README%20images/Account.png)
 
 ![Image to Account 2](http://suffolklitlab.org/resource-map-how-to/README%20images/Account%202.png)  
 
 ![Image to API Key](http://suffolklitlab.org/resource-map-how-to/README%20images/API%20Key.png)
-**<p> 25. Copy and paste your API key in line 141 of the code. </p>**
+**<p> 26. Copy and paste your API key in line 141 of the code. </p>**
  
 ![Image of 141](http://suffolklitlab.org/resource-map-how-to/README%20images/141.png)
-**<p> 26. Find your API documentation. You can follow the steps below or go to this [website](https://medium.com/row-and-table/an-basic-intro-to-the-airtable-api-9ef978bb0729). </p>**
+**<p> 27. Find your API documentation. You can follow the steps below or go to this [website](https://medium.com/row-and-table/an-basic-intro-to-the-airtable-api-9ef978bb0729). </p>**
  
 ![Image of API Documenation](http://suffolklitlab.org/resource-map-how-to/README%20images/API%20Documentation.png)
 
@@ -84,7 +84,7 @@ A geo-locator app can be used to search for and filter through programs and serv
 
 ![Image of 140](http://suffolklitlab.org/resource-map-how-to/README%20images/140.png)
 
-**<p> 29. Find your Google Maps API. To find your Google Maps API go [here](https://developers.google.com/maps/documentation/javascript/get-api-key?refresh=1) and follow the steps below. You will likely have to sign into Google using a gmail account. </p>**
+**<p> 29. Find your Google Maps API. To find your Google Maps API go [here](https://developers.google.com/maps/documentation/javascript/get-api-key?refresh=1) and follow the steps below. You will have to sign into Google using a gmail account. </p>**
 
 ![Image Line Google API 1](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%201.png)
 ![Image Line Google API 2](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%202.png)
