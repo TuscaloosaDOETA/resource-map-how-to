@@ -62,14 +62,14 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 24. Put the tagged names into line 208 (i.e: checkbox-v-Alternative'). </p>**
 
 ![Image of 208](http://suffolklitlab.org/resource-map-how-to/README%20images/208.png)
-**<p> 25. Go back to your Airtable. Find your API key. You can follow the steps below or go to this [website](https://medium.com/row-and-table/an-basic-intro-to-the-airtable-api-9ef978bb0729). Go to your profile, click "Account." Scroll down to find your unique API key. Make sure "key" is not entered into the code twice. </p>** 
+**<p> 25. Go back to your Airtable. Find your API key. You can follow the steps below or go to this [website](https://medium.com/row-and-table/an-basic-intro-to-the-airtable-api-9ef978bb0729). Go to your profile, click "Account." Scroll down to find your unique API key. </p>** 
  
 ![Image to Account](http://suffolklitlab.org/resource-map-how-to/README%20images/Account.png)
 
 ![Image to Account 2](http://suffolklitlab.org/resource-map-how-to/README%20images/Account%202.png)  
 
 ![Image to API Key](http://suffolklitlab.org/resource-map-how-to/README%20images/API%20Key.png)
-**<p> 26. Copy and paste your API key in line 141 of the code. </p>**
+**<p> 26. Copy and paste your API key in line 141 of the code. Make sure "key" is not entered into the code twice. </p>**
  
 ![Image of 141](http://suffolklitlab.org/resource-map-how-to/README%20images/141.png)
 **<p> 27. Find your API documentation. You can follow the steps below or go to this [website](https://medium.com/row-and-table/an-basic-intro-to-the-airtable-api-9ef978bb0729). Click the question mark then go to "API Documentation." Look to the URL at the top of page and copy everything after the "app." </p>**
