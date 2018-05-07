@@ -23,7 +23,7 @@ A geo-locator app can be used to search for and filter through programs and serv
  ![Image of Settings](http://suffolklitlab.org/resource-map-how-to/README%20images/Settings.png)
  ![Image of Settings2](http://suffolklitlab.org/resource-map-how-to/README%20images/Settings2.png)
  
-**<p> 11. Change the name to what you would like as this is how it will show up in the URL. Go back to the repository. </p>**
+**<p> 11. Change the name to what you would like as this is how it will show up in the URL. Go back to the repository by clicking where the arrow is pointed. </p>**
 
 ![Image of Repo](http://suffolklitlab.org/resource-map-how-to/README%20images/Repo.png)
 **<p> 12. Create an Airtable account [here](https://airtable.com). </p>**
@@ -59,10 +59,10 @@ A geo-locator app can be used to search for and filter through programs and serv
 
 ![Image of 142](http://suffolklitlab.org/resource-map-how-to/README%20images/142.png)
 
-**<p> 24. Put the tagged names into line 208 (i.e checkbox-v-Alternative'). </p>**
+**<p> 24. Put the tagged names into line 208 (i.e: checkbox-v-Alternative'). </p>**
 
 ![Image of 208](http://suffolklitlab.org/resource-map-how-to/README%20images/208.png)
-**<p> 25. Go back to your Airtable. Find your API key. You can follow the steps below or go to this [website](https://medium.com/row-and-table/an-basic-intro-to-the-airtable-api-9ef978bb0729). </p>** 
+**<p> 25. Go back to your Airtable. Find your API key. You can follow the steps below or go to this [website](https://medium.com/row-and-table/an-basic-intro-to-the-airtable-api-9ef978bb0729). Go to your profile, click "Account." Scroll down to find your unique API key. Make sure "key" is not entered into the code twice. </p>** 
  
 ![Image to Account](http://suffolklitlab.org/resource-map-how-to/README%20images/Account.png)
 
@@ -72,7 +72,7 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 26. Copy and paste your API key in line 141 of the code. </p>**
  
 ![Image of 141](http://suffolklitlab.org/resource-map-how-to/README%20images/141.png)
-**<p> 27. Find your API documentation. You can follow the steps below or go to this [website](https://medium.com/row-and-table/an-basic-intro-to-the-airtable-api-9ef978bb0729). </p>**
+**<p> 27. Find your API documentation. You can follow the steps below or go to this [website](https://medium.com/row-and-table/an-basic-intro-to-the-airtable-api-9ef978bb0729). Click the question mark then go to "API Documentation." Look to the URL at the top of page and copy everything after the "app." </p>**
  
 ![Image of API Documenation](http://suffolklitlab.org/resource-map-how-to/README%20images/API%20Documentation.png)
 
@@ -80,7 +80,7 @@ A geo-locator app can be used to search for and filter through programs and serv
 
 ![Image of API Documentation 3](http://suffolklitlab.org/resource-map-how-to/README%20images/API%20Doumentation%203.png)
 
-**<p> 28. Copy and paste your API documentation in line 140 of the code. </p>**
+**<p> 28. Copy and paste your API documentation in line 140 of the code. Be sure to only have "app" in the code once. </p>**
 
 ![Image of 140](http://suffolklitlab.org/resource-map-how-to/README%20images/140.png)
 
@@ -94,7 +94,7 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 31. Click "My Project" or create a new one. </p>**
 ![Image Line Google API 1.3](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%201.3.png)
 
-**<p> 32. Google will then ask you to enable billing. Even though you must input a credit card, Google gives $200 a month of free use. It is more likely than not that you will still not reach the $200 threshold because the app will likely be for internal use with only a few dozen people utilizing it. For more info on this, you can click [here.](https://mapsplatform.googleblog.com/2018/05/introducing-google-maps-platform.html). Click "Create Billing Account."
+**<p> 32. Google will then ask you to enable billing. Even though you must input a credit card, Google gives $200 a month of free use. It is more likely than not that you will still not reach the $200 threshold because the app will likely be for internal use with only a few dozen people utilizing it. For more info on this, you can click [here.](https://mapsplatform.googleblog.com/2018/05/introducing-google-maps-platform.html) Click "Create Billing Account." </p>**
 
 ![Image Line Google API 1.4](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%201.4.png)
 ![Image Line Google billing](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20billing.png)
@@ -105,9 +105,9 @@ A geo-locator app can be used to search for and filter through programs and serv
 ![Image Line Google API 2](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%202.png)
 ![Image of 136](http://suffolklitlab.org/resource-map-how-to/README%20images/136.png)
 
-**<p> 31. Commit the changes on the bottom of the page. </p>**
+**<p> 35. Commit the changes on the bottom of the page. </p>**
  
 ![Image of Commit](http://suffolklitlab.org/resource-map-how-to/README%20images/Commit.png)
-**<p> 32. Go to settings again, scroll down to GitHub pages to find your own url link. </p>**
+**<p> 36. Go to settings again, scroll down to GitHub pages to find your own url link. </p>**
 
 ![Image of link](http://suffolklitlab.org/resource-map-how-to/README%20images/link.png)
