@@ -5,7 +5,7 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 1. Head to https://github.com/ and create your own account. </p>**
 **<p> 2. Once you've created an account, go to https://github.com/SuffolkLITLab/resource-map-how-to. </p>**
 **<p> 3. Click on the index.html file. </p>**
-**<p> 4. Click the pen button to edit the code. </p>**
+**<p> 4. Click the pen button to edit the code. You will have to verify your GitHub account via email before editing anything.</p>**
  
 ![Image of pen](http://suffolklitlab.org/resource-map-how-to/README%20images/pen.png)
 **<p> 5. Copy the all the code from index.html. This is blank template where you will insert all the data needed. </p>**
