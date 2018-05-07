@@ -92,6 +92,10 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 30. Look at line 136 of the code. Insert your own Google API key. </p>**
 
 ![Image of 136](http://suffolklitlab.org/resource-map-how-to/README%20images/136.png)
-**<p> 31. Go to settings again, scroll down to GitHub pages to find your own url link. </p>**
+
+**<p> 31. Commit the changes on the bottom of the page. </p>**
+ 
+![Image of Commit](http://suffolklitlab.org/resource-map-how-to/README%20images/Commit.png)
+**<p> 32. Go to settings again, scroll down to GitHub pages to find your own url link. </p>**
 
 ![Image of link](http://suffolklitlab.org/resource-map-how-to/README%20images/link.png)
