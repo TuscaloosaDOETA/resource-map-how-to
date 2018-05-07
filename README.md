@@ -88,7 +88,7 @@ A geo-locator app can be used to search for and filter through programs and serv
 
 ![Image Line Google API 1](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%201.png)
 
-**<p> 30. Choose the Maps selection. Click next. </p>**
+**<p> 30. Choose the Maps selection. Click "Continue." </p>**
 ![Image Line Google API 1.2](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%201.2.png)
 
 **<p> 31. Click "My Project" or create a new one. </p>**
