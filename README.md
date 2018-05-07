@@ -55,7 +55,7 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 22. Now turn to line 73 to update your own About page. </p>**
 
 ![Image of 73](http://suffolklitlab.org/resource-map-how-to/README%20images/73.png)
-**<p> 23. Update line 142 to input your own Category names. Tag the categories as you want to refer to them throughout the code (i.e. "Alternative" "Risk"). </p>** 
+**<p> 23. Update line 142 to input your own Category names. Make sure the Category names are spelled exactly as they are in the Airtable to ensure the data is inputted correctly into the code. Tag the categories as you want to refer to them throughout the code (i.e. "Alternative" "Risk"). </p>** 
 
 ![Image of 142](http://suffolklitlab.org/resource-map-how-to/README%20images/142.png)
 
@@ -88,7 +88,7 @@ A geo-locator app can be used to search for and filter through programs and serv
 
 ![Image Line Google API 1](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%201.png)
 ![Image Line Google API 2](http://suffolklitlab.org/resource-map-how-to/README%20images/Google%20API%202.png)
-**<p> 30. Look at line 136 of the code. Insert your own Google API key. </p>**
+**<p> 30. Copy the Google API key and turn to line 136 of the code. Paste your own Google API key. </p>**
 
 ![Image of 136](http://suffolklitlab.org/resource-map-how-to/README%20images/136.png)
 
