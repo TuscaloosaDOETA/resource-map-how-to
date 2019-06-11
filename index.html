@@ -37,10 +37,10 @@
 	<div data-role="content" class="content">
 		<div class="ui-field-contain"> DESCRIPTION
 			<select id="town" name="select-native-1" id="select-native-1" style="width:100%" onChange="list_page();">
-        		<option value="0">Choose a Location</option>
+        		<option value="0">Choose a Location</option>
 						<option id="loading_selection" value="0">Loading Locations...</option>
 						<option v-for="item in items" v-bind:value="item['fields']['Latitude, Longitude, Zoom']">{{ item['fields']['Name'] }}</option>
-    		</select>
+    		</select>
 		</div>
 
 		<p> AGE </p>
@@ -51,10 +51,10 @@
 		</fieldset>
 
 		<fieldset data-role="controlgroup" data-type="horizontal">
-    		<input type="radio" name="radio-choice-h-2" id="radio-choice-h-2a" value="list" checked="checked">
-    		<label for="radio-choice-h-2a">List View</label>
-    		<input type="radio" name="radio-choice-h-2" id="radio-choice-h-2b" value="map">
-    		<label for="radio-choice-h-2b">Map View</label>
+    		<input type="radio" name="radio-choice-h-2" id="radio-choice-h-2a" value="list" checked="checked">
+    		<label for="radio-choice-h-2a">List View</label>
+    		<input type="radio" name="radio-choice-h-2" id="radio-choice-h-2b" value="map">
+    		<label for="radio-choice-h-2b">Map View</label>
 		</fieldset>
 
 		<a href="javascript:results_page();" data-role="button">Find Resources</a>
