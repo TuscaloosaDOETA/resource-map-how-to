@@ -4,7 +4,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 	<meta name="apple-mobile-web-app-capable" content="no" />
 	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
-    <title>WEBSITE TITLE</title>
+    <title>TUSCALOOSA JUVENILE RESOURCE LOCATOR</title>
 
 	<meta property="og:image" content="images/icon_300.png"/>
 	<link rel="apple-touch-icon" href="images/icon_300.png"/>
@@ -31,11 +31,11 @@
 
 <div data-role="page" id="filter">
 	<div data-role="header" data-position="fixed">
-		<h1>TITLE</h1>
+		<h1>TUSCALOOSA JUVENILE RESOURCE LOCATOR</h1>
 		<a href="#about" class="ui-btn ui-icon-info ui-btn-icon-notext ui-corner-all ui-btn-right" data-transition="slide"></a>
 	</div>
 	<div data-role="content" class="content">
-		<div class="ui-field-contain"> DESCRIPTION
+		<div class="ui-field-contain"> Utilize the options below to locate juvenile resources and programs throughout the state of Alabama. 
 			<select id="town" name="select-native-1" id="select-native-1" style="width:100%" onChange="list_page();">
         		<option value="0">Choose a Location</option>
 						<option id="loading_selection" value="0">Loading Locations...</option>
@@ -43,7 +43,7 @@
     		</select>
 		</div>
 
-		<p> AGE </p>
+		<p> 5-24 </p>
 		<input name="age" id="age" data-type="number" placeholder="Input Age" onChange="list_page();">
 
 		<fieldset id="categories" data-role="controlgroup">
@@ -70,7 +70,14 @@
 		<a href="#" data-rel="back" data-transition="slide" data-direction="reverse" class="ui-btn ui-shadow ui-corner-all ui-btn-icon-left ui-icon-arrow-l ui-btn-icon-notext"></a>
 	</div>
 	<div data-role="content" class="content">
-		<p> ABOUT PAGE CONTENT
+		<p> This project was the brainchild of the Juvenile Justice Working Group of Tuscaloosa.  In late-2017, the Tuscaloosa Department of Education Technical Assistance (DOETA) group was formed to participate in the U.S. Department of Education’s Technical Assistance (TA) initiative, focused on building the capacity of communities to provide justice-involved young adults with diversion programs that include career and technical education, special education, and workforce development.  The group includes individuals from across Tuscaloosa interested in providing appropriate services to youth and young adults involved in juvenile justice. 
+
+Jenny Ryan from the University of Alabama School of Law Children’s Rights Clinic and the Alabama Disabilities Advocacy Program has taken the lead for this project. Christina Jones, student social worker and previous intern with the University of Alabama legal clinics, was the driver of content and programming. She will be graduating in May of 2020 with a Master’s in Social Work from the University of Alabama. 
+
+Many thanks are to be awarded to Nicole Siino and the Suffolk Lit Lab at Suffolk University Law School for inspiring this project with their similar program. 
+
+If you come across any mistakes, or would like to share information about additional resources, please contact us at tuscaloosaDOETA@gmail.com. 
+
 	</div>
 </div>
 
@@ -133,13 +140,13 @@
 <script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.16.2/axios.min.js"></script>
 
-<script async defer src="https://maps.googleapis.com/maps/api/js?key= "></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCetOax2XcWaykzMGd5YcQQmppmZ7CoVgY "></script>
 
 <script type="text/javascript">
 
-	var app_id = "app ";
-	var app_key = "key ";
-	var cat_names = [["Outreach","Community Outreach"],["Counseling","Counseling"],["Training","Job Opportunities/Training"],["Health","Health Services"],["Risk","High Risk"],["Multi","Multi-Service"]];
+	var app_id = "appPlV7GS0bOhPalQ ";
+	var app_key = "keykzbu3lHJySTBaJ ";
+	var cat_names = [["Health","Community Mental Health"],["Outreach","Community Outreach"],["Workforce","Workforce Development"],["Diversion","Diversion"],["Education","Education"],["Home","Group Home"],["Parenting","Parenting Resources"],["Shelter","Shelter"],["Boarding","Therapeutic Boarding School"],["Treatment","Treatment"],["Psychiatric","Psychiatric Residential Treatment Facility"],["Treatment","Treatment;Inpatient"],["Youth","Youth Programming"]],["Other","Other"];
 
 	var categories = "";
 	var ages = "";
@@ -205,7 +212,7 @@
 			alert('You must choose a location.');
 		} else if ( isNaN(Number($('#age').val())) ) {
 			alert('You must enter a numeric age (in years) or leave blank.')
-		} else if ($('#checkbox-v- ').is(":checked") || $('#checkbox-v- ').is(":checked") || $('#checkbox-v- ').is(":checked") || $('#checkbox-v- ').is(":checked") || $('#checkbox-v- ').is(":checked") || $('#checkbox-v- ').is(":checked")) {
+		} else if ($('#checkbox-v-Health ').is(":checked") || $('#checkbox-v-Outreach ').is(":checked") || $('#checkbox-v-Workforce ').is(":checked") || $('#checkbox-v-Diversion ').is(":checked") || $('#checkbox-v-Education ').is(":checked") || $('#checkbox-v-Home ').is(":checked")) || $('checkbox-v-Parenting ').is(":checked")) || $('checkbox-v-Shelter ').is(":checked")) || $('checkbox-v-Boarding ').is(":checked")) || $('checkbox-v-Treatment ').is(":checked")) || $('checkbox-v-Psychiatric ').is(":checked")) || $('checkbox-v-Treatment ').is(":checked")) || $('checkbox-v-Youth ').is(":checked")) || $('checkbox-v-Other ').is(":checked")) || {
 			next_page_1()
     } else {
 			alert('You must choose at least one type of service.')
