@@ -35,7 +35,7 @@
 		<a href="#about" class="ui-btn ui-icon-info ui-btn-icon-notext ui-corner-all ui-btn-right" data-transition="slide"></a>
 	</div>
 	<div data-role="content" class="content">
-		<div class="ui-field-contain"> Utilize the options below to locate juvenile resources and programs throughout the state of Alabama. 
+		<div class="ui-field-contain"> DESCRIPTION
 			<select id="town" name="select-native-1" id="select-native-1" style="width:100%" onChange="list_page();">
         		<option value="0">Choose a Location</option>
 						<option id="loading_selection" value="0">Loading Locations...</option>
@@ -70,8 +70,7 @@
 		<a href="#" data-rel="back" data-transition="slide" data-direction="reverse" class="ui-btn ui-shadow ui-corner-all ui-btn-icon-left ui-icon-arrow-l ui-btn-icon-notext"></a>
 	</div>
 	<div data-role="content" class="content">
-		<p> DESCRIPTION
-
+		<p> ABOUT PAGE CONTENT
 	</div>
 </div>
 
@@ -112,6 +111,7 @@
 </div>
 
 
+
 <div data-role="page" id="map-page" style="background:#798e9e;">
 	<div data-role="header" data-position="fixed">
 		<h1>Results</h1>
@@ -139,7 +139,7 @@
 
 	var app_id = "appPlV7GS0bOhPalQ ";
 	var app_key = "keykzbu3lHJySTBaJ ";
-	var cat_names = [["Health","Community Mental Health"],["Outreach","Community Outreach"],["Workforce","Workforce Development"],["Diversion","Diversion"],["Education","Education"],["Home","Group Home"],["Parenting","Parenting Resources"],["Shelter","Shelter"],["Boarding","Therapeutic Boarding School"],["Treatment","Treatment"],["Psychiatric","Psychiatric Residential Treatment Facility"],["Treatment","Treatment;Inpatient"],["Youth","Youth Programming"]],["Other","Other"];
+	var cat_names = [["Outreach","Community Outreach"],["Health","Community Mental Health"],["Diversion","Diversion"],["Education","Education"],["Home","Group Home"],["Psychiatric","Psychiatric Residential Treatment Facility"]];
 
 	var categories = "";
 	var ages = "";
@@ -205,7 +205,7 @@
 			alert('You must choose a location.');
 		} else if ( isNaN(Number($('#age').val())) ) {
 			alert('You must enter a numeric age (in years) or leave blank.')
-		} else if ($('#checkbox-v-Health ').is(":checked") || $('#checkbox-v-Outreach ').is(":checked") || $('#checkbox-v-Workforce ').is(":checked") || $('#checkbox-v-Diversion ').is(":checked") || $('#checkbox-v-Education ').is(":checked") || $('#checkbox-v-Home ').is(":checked")) || $('checkbox-v-Parenting ').is(":checked")) || $('checkbox-v-Shelter ').is(":checked")) || $('checkbox-v-Boarding ').is(":checked")) || $('checkbox-v-Treatment ').is(":checked")) || $('checkbox-v-Psychiatric ').is(":checked")) || $('checkbox-v-Treatment ').is(":checked")) || $('checkbox-v-Youth ').is(":checked")) || $('checkbox-v-Other ').is(":checked")) || {
+		} else if ($('#checkbox-v-Outreach ').is(":checked") || $('#checkbox-v-Health ').is(":checked") || $('#checkbox-v-Diversion ').is(":checked") || $('#checkbox-v-Education ').is(":checked") || $('#checkbox-v-Home ').is(":checked") || $('#checkbox-v-Psychiatric ').is(":checked")) {
 			next_page_1()
     } else {
 			alert('You must choose at least one type of service.')
