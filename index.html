@@ -146,7 +146,7 @@
 
 	var app_id = "appPlV7GS0bOhPalQ";
 	var app_key = "keykzbu3lHJySTBaJ";
-	var cat_names = [["Outreach","Community Outreach"],["Workforce","Workforce Development"],["Home","Group Home"],["Diversion","Diversion"],["Inpatient","Inpatient Treatment"],["Other","Other"],["Health","Community Mental Health"],["Psychiatric","Psychiatric Residential Treatment Facility"]];
+	var cat_names = [["Outreach","Community Outreach"],["Workforce","Workforce Development"],["Home","Group Home"],["Diversion","Diversion"],["Inpatient","Inpatient Treatment"],["Health","Community Mental Health"],["Psychiatric","Psychiatric Residential Treatment Facility"],["Other","Other"]];
 
 	var categories = "";
 	var ages = "";
@@ -212,7 +212,7 @@
 			alert('You must choose a location.');
 		} else if ( isNaN(Number($('#age').val())) ) {
 			alert('You must enter a numeric age (in years) or leave blank.')
-		} else if ($('#checkbox-v-Outreach').is(":checked") || $('#checkbox-v-Workforce').is(":checked") || $('#checkbox-v-Home').is(":checked") || $('#checkbox-v-Diversion').is(":checked") || $('#checkbox-v-Inpatient').is(":checked") || $('#checkbox-v-Other').is(":checked") || $('#chechbox-v-Health').is(":checked") || $('#checkbox-v-Psychiatric').is(":checked")) {
+		} else if ($('#checkbox-v-Outreach').is(":checked") || $('#checkbox-v-Workforce').is(":checked") || $('#checkbox-v-Home').is(":checked") || $('#checkbox-v-Diversion').is(":checked") || $('#checkbox-v-Inpatient').is(":checked") || $('#chechbox-v-Health').is(":checked") || $('#checkbox-v-Psychiatric').is(":checked") || $('#checkbox-v-Other').is(":checked")){
 			next_page_1()
     } else {
 			alert('You must choose at least one type of service.')
